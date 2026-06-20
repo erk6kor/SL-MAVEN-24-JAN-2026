@@ -27,7 +27,7 @@ public class MyCalc {
 	}
 	public void greeting()
 	{
-		System.out.println("Hello Jenkins from Master Branch");
+		System.out.println("Hello Jenkins from Master Branch from erk6kor repo");
 	}
 
 	public static void main(String[] args) {
