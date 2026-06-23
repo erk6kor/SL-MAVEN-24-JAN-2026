@@ -1,4 +1,4 @@
-name: Java CI with Maven demo
+name: Java CI with Maven demo virtual machine
 
 on:
   push:
